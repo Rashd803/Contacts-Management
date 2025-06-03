@@ -1,0 +1,16 @@
+C:\Users\srash\Desktop\Programming\18th Cource\ContactsWinFormSolution\Contacts\bin\Release\Contacts.exe.config
+C:\Users\srash\Desktop\Programming\18th Cource\ContactsWinFormSolution\Contacts\bin\Release\Contacts.exe
+C:\Users\srash\Desktop\Programming\18th Cource\ContactsWinFormSolution\Contacts\bin\Release\Contacts.pdb
+C:\Users\srash\Desktop\Programming\18th Cource\ContactsWinFormSolution\Contacts\bin\Release\ContactBusinessLayer.dll
+C:\Users\srash\Desktop\Programming\18th Cource\ContactsWinFormSolution\Contacts\bin\Release\ContactsDataAccessLayer.dll
+C:\Users\srash\Desktop\Programming\18th Cource\ContactsWinFormSolution\Contacts\bin\Release\ContactBusinessLayer.pdb
+C:\Users\srash\Desktop\Programming\18th Cource\ContactsWinFormSolution\Contacts\bin\Release\ContactsDataAccessLayer.pdb
+C:\Users\srash\Desktop\Programming\18th Cource\ContactsWinFormSolution\Contacts\obj\Release\ContactsPresentationLayer.csproj.AssemblyReference.cache
+C:\Users\srash\Desktop\Programming\18th Cource\ContactsWinFormSolution\Contacts\obj\Release\Contacts.frmAddEditContact.resources
+C:\Users\srash\Desktop\Programming\18th Cource\ContactsWinFormSolution\Contacts\obj\Release\Contacts.frmListContacts.resources
+C:\Users\srash\Desktop\Programming\18th Cource\ContactsWinFormSolution\Contacts\obj\Release\Contacts.Properties.Resources.resources
+C:\Users\srash\Desktop\Programming\18th Cource\ContactsWinFormSolution\Contacts\obj\Release\ContactsPresentationLayer.csproj.GenerateResource.cache
+C:\Users\srash\Desktop\Programming\18th Cource\ContactsWinFormSolution\Contacts\obj\Release\ContactsPresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\srash\Desktop\Programming\18th Cource\ContactsWinFormSolution\Contacts\obj\Release\Contacts.3D89028D.Up2Date
+C:\Users\srash\Desktop\Programming\18th Cource\ContactsWinFormSolution\Contacts\obj\Release\Contacts.exe
+C:\Users\srash\Desktop\Programming\18th Cource\ContactsWinFormSolution\Contacts\obj\Release\Contacts.pdb

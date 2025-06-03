@@ -1,0 +1,9 @@
+C:\Users\srash\Desktop\Programming\18th Cource\ContactsWinFormSolution\ContactBusinessLayer\bin\Release\ContactBusinessLayer.dll
+C:\Users\srash\Desktop\Programming\18th Cource\ContactsWinFormSolution\ContactBusinessLayer\bin\Release\ContactBusinessLayer.pdb
+C:\Users\srash\Desktop\Programming\18th Cource\ContactsWinFormSolution\ContactBusinessLayer\bin\Release\ContactsDataAccessLayer.dll
+C:\Users\srash\Desktop\Programming\18th Cource\ContactsWinFormSolution\ContactBusinessLayer\bin\Release\ContactsDataAccessLayer.pdb
+C:\Users\srash\Desktop\Programming\18th Cource\ContactsWinFormSolution\ContactBusinessLayer\obj\Release\ContactsBusinessLayer.csproj.AssemblyReference.cache
+C:\Users\srash\Desktop\Programming\18th Cource\ContactsWinFormSolution\ContactBusinessLayer\obj\Release\ContactsBusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\srash\Desktop\Programming\18th Cource\ContactsWinFormSolution\ContactBusinessLayer\obj\Release\Contacts.DFB66D76.Up2Date
+C:\Users\srash\Desktop\Programming\18th Cource\ContactsWinFormSolution\ContactBusinessLayer\obj\Release\ContactBusinessLayer.dll
+C:\Users\srash\Desktop\Programming\18th Cource\ContactsWinFormSolution\ContactBusinessLayer\obj\Release\ContactBusinessLayer.pdb
